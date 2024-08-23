@@ -5,11 +5,11 @@
 - name: "Service"
   url: "#features"
 
-- name: "Features"
-  url: "#features"
-
 - name: "About Us"
   url: "#about"
+
+- name: "Client"
+  url: "#client"
 
 # - name: "Blog"
 #   url: "#news"
